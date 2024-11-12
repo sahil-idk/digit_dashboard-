@@ -13,6 +13,7 @@
     "@radix-ui/react-tabs": "^1.1.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "csv-parse": "^5.5.6",
     "digit_dashboard_1": "file:",
     "framer-motion": "^11.11.11",
     "lucide-react": "^0.456.0",
